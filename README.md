@@ -1,5 +1,5 @@
 # UrduPress
-A free and opensource CMS for setting up your Urdu Blog.
+A free and opensource CMS for setting up your blog in Urdu language.
 
 ## Contributing
 
